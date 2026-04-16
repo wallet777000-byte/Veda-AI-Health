@@ -1,0 +1,6 @@
+{
+  "name": "Veda Health",
+  "description": "AI-powered health companion for Indian families. Available in 10 languages, completely free.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": []
+}
